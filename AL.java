@@ -29,7 +29,7 @@ public class AL {
         System.out.println("Get Remove Element : " +list.remove(0));
 
         System.out.println(list);
-        System.out.println("Contains : " +list.contains(4));  //In Contain Number pass the Contain Method
+        System.out.println("Contains : " +list.contains(4));
 
         list.clear();
         System.out.println(list);
